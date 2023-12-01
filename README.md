@@ -1,3 +1,3 @@
-# Algoritmo-Gen-tico-Para-Minimiza-o-da-Fun-o-Ackley
+# Algoritmo-Genetico-Para-Minimizacao-da-Funcao-Ackley
 
 Implementação de Algoritmo Genético para encontrar o mínimo global da função Ackley
